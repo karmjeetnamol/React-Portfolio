@@ -34,10 +34,10 @@ nav {
   border-bottom: 3px solid red;
 }
 
-.hamburger-menu {
-  display: flex;
-}
-.hamburger-menu .menu {
-  font-size: 30px;
-  color: black;
+
+
+.footer {
+  background-color: gray;
+  margin-top: 755px;
+  padding: 2px;
 }

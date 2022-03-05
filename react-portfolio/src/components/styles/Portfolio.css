@@ -19,6 +19,10 @@
   justify-content: space-around;
 }
 
+.cart  p a:hover {
+  border-bottom: 3px solid gray;
+}
+
 .cart {
   display: flex;
   background-color: blanchedalmond;
